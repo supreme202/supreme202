@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @supreme202
 - ⌨️ Languages: Python & C#.
-- 👀 I’m interested in programming and reverse engineering.
+- 👀 I’m interested in programming.
 - 📫 Discord: Supreme#3276
